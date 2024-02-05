@@ -1,0 +1,6 @@
+import com.xxl.job.core.biz.model.ReturnT;
+public class FunctionUse27 {
+public void funcUse() {
+ReturnT returnt = new ReturnT();
+}
+}
